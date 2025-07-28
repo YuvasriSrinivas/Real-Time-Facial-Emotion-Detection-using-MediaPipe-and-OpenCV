@@ -101,16 +101,11 @@ python emotion_detector.py
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 🙋‍♂️ Author
 
 **Yuva Sri Srinivas**
-📫 [LinkedIn](https://www.linkedin.com/in/yuvasrisrinivas)
+📫 [LinkedIn]- www.linkedin.com/in/yuvasrisrinivas09
 🌐 [Portfolio](https://yuvasrisrinivas.github.io/yuvasrisrinivas-Portfolio/)
 
 ---
